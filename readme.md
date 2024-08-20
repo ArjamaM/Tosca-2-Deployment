@@ -10,7 +10,7 @@ This document is divided into two main sections: User Documentation and Develope
 
 Please follow the section that best matches your role or level of expertise.
 
-## User Documentation
+## 1. User Documentation
 
 This guide provides simple steps to set up a TOSCA environment using Docker Compose. Follow these instructions to deploy the TOSCA system on your local machine.
 
@@ -122,7 +122,7 @@ To access the CPT module, click on the datastore located at the top left of the 
 ![alt text](./img/cpt.png)
 ---
 
-## Developer Documentation
+## 2. Developer Documentation
 
 **Prerequisites**
 
